@@ -1,0 +1,28 @@
+name: MAUIRED
+favicon: null
+layout_spectrum: 0.7335865278728306
+typography_spectrum: 0.6205406654626131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34284598869271576
+  lightness: 0.4762646844610572
+  saturation: 0.013882806757465005
+  rhythmicContrast: 0.21145347715355456
+purpose: []
